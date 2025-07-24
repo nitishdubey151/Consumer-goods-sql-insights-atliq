@@ -29,7 +29,6 @@ Atliq Hardware noticed a lack of actionable insights that hindered their strateg
 
 - Strengthened my knowledge of **SQL concepts**: joins, aggregations, CTEs, filtering, window functions, etc.
 - Gained a deeper understanding of **business metrics** like gross sales, year-over-year growth, and fiscal years.
-- Improved **data storytelling** and presentation design using **Canva**.
 - Learned how to approach ambiguous business problems and translate them into structured queries.
 
 ---
